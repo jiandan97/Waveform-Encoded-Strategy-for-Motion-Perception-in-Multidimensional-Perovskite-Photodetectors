@@ -1,6 +1,6 @@
 # Asymmetric design enables motion detection and intensity sensitivity in perovskite photodetectors
 
-![image-20251004160432686](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251004160432686.png)
+![image-20251004160432686](functions\explain.png)
 
 ## Requirements
 
