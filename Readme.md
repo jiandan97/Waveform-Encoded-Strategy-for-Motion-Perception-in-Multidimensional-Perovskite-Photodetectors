@@ -1,6 +1,6 @@
 # Asymmetric design enables motion detection and intensity sensitivity in perovskite photodetectors
 
-![image-20251004160432686](functions\explain.png)
+![image-20251004160432686](functions/explain.png)
 
 ## Requirements
 
