@@ -1,4 +1,4 @@
-# Waveform-Encoded Strategy for Motion Perception in Multidimensional Perovskite Photodetectors
+# Schematic illustration of the dataset and network architecture
 
 ![image-20251004160432686](functions/explain.png)
 
