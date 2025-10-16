@@ -1,4 +1,4 @@
-# Asymmetric design enables motion detection and intensity sensitivity in perovskite photodetectors
+# Waveform-Encoded Strategy for Motion Perception in Multidimensional Perovskite Photodetectors
 
 ![image-20251004160432686](functions/explain.png)
 
