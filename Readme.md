@@ -1,4 +1,4 @@
-# Schematic illustration of the dataset and network architecture
+# Schematic illustration of dataset and network architecture
 
 ![image-20251004160432686](functions/explain.png)
 
